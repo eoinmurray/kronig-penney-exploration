@@ -1,3 +1,6 @@
 {
-    "main": "Kronig-Penney.ipynb"
+    "main": "Kronig-Penney.ipynb",
+    "title": "Some cool title",
+    "description": "Yo yo yo this is a desciption of my work. Welcome!",
+    "branch": "staging"
 }
