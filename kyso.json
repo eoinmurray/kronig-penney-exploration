@@ -1,5 +1,5 @@
 {
     "main": "Kronig-Penney.ipynb",
-    "title": "Some cool title",
-    "description": "Yo yo yo this is a desciption of my work."
+    "title": "Kronig Penney simulation",
+    "description": "Energies of an electron in a one-dimensional periodic potential."
 }
